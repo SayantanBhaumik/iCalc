@@ -1,4 +1,6 @@
 # iCalc
-Iphone Calculator App in Swift Language
+Iphone Calculator App .
+##Language
+Swift.
 ## Built with
-Xcode
+Xcode.
